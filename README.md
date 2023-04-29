@@ -13,6 +13,17 @@ STEPS TO RUN :
 3) In terminal write command : npm start
 
 
+
+
+
+
+
+
+
+
+
+
+
 Actual Website Design:
 
 ![Screenshot (76)](https://user-images.githubusercontent.com/86292101/235314511-c5107ca4-f396-47a8-97b2-85215b912605.png)
